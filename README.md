@@ -19,8 +19,8 @@ Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
 <br>🤖 Machine Learning Models
-Linear Regression
-Decision Tree Regressor
+Linear Regression,
+Decision Tree Regressor,
 Random Forest Regressor
 <br>📈 Features
 Data preprocessing and cleaning
